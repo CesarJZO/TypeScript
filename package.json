@@ -1,15 +1,16 @@
 {
   "name": "typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "I hate dynamic typed languages, I need to learn WebDev and make a web app today, so I'm going to use TypeScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "César Zárate",
   "license": "ISC",
   "dependencies": {
+    "http-server": "^14.1.1",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
