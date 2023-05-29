@@ -1,7 +1,7 @@
 import * as d3 from 'd3';
 
-const temperatureValue = 25;
-const humidityValue = 50;
+let temperatureValue = 25;
+let humidityValue = 50;
 
 function updateTemperatureBar(value: number) {
     const temperatureBar = d3.select('#temperature-bar');
