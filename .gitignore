@@ -1,0 +1,24 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled JavaScript files
+dist/
+
+# Ignore environment-specific files
+.env
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore npm debugging logs
+npm-debug.log*
+
+# Ignore TypeScript configuration file
+tsconfig.json
+
+# Ignore JavaScript source maps
+*.js.map
+
+# Ignore any other temporary or generated files
+**/*.tmp
+**/*.log
